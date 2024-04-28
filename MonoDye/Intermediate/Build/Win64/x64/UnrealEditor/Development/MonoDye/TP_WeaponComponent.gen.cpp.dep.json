@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\iulid\\onedrive\\documents\\unreal projects\\monodye\\intermediate\\build\\win64\\unrealeditor\\inc\\monodye\\uht\\tp_weaponcomponent.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\iulid\\onedrive\\documents\\unreal projects\\monodye\\intermediate\\build\\win64\\x64\\monodyeeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\iulid\\onedrive\\documents\\unreal projects\\monodye\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\monodye\\definitions.monodye.h",
+            "c:\\users\\iulid\\onedrive\\documents\\unreal projects\\monodye\\source\\monodye\\tp_weaponcomponent.h",
+            "c:\\users\\iulid\\onedrive\\documents\\unreal projects\\monodye\\intermediate\\build\\win64\\unrealeditor\\inc\\monodye\\uht\\tp_weaponcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

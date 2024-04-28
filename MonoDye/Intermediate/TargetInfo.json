@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "MonoDye",
+			"Path": "..\\Source\\MonoDye.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "MonoDyeEditor",
+			"Path": "..\\Source\\MonoDyeEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

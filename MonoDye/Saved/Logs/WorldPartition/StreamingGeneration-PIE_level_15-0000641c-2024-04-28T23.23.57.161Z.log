@@ -1,0 +1,57 @@
+[+] Containers:
+ |- [+] Container: /Game/FirstPerson/Maps/level_15
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:A5CFB1BE45196A6F98C4FDBBED111BFD BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers-1 SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- Guid:C4D61F4E43500FD365261CAC54800399 BaseClass: NativeClass:/Script/Engine.AmbientSound Name:AmbientSound_UAID_C87F54EAD9109AF001_1153125706 Label:ambience SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=728.000 Y=240.000 Z=50.000), Max=(X=728.000 Y=240.000 Z=50.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:A5CFB1BE45196A6F98C4FDBBED111BFD BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers-1 SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:C4D61F4E43500FD365261CAC54800399 BaseClass: NativeClass:/Script/Engine.AmbientSound Name:AmbientSound_UAID_C87F54EAD9109AF001_1153125706 Label:ambience SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=728.000 Y=240.000 Z=50.000), Max=(X=728.000 Y=240.000 Z=50.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/FirstPerson/Maps/level_15
+----------------------------------------------------------------------------------------------------------------
+level_15 - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of level_15 Persistent Level
+ |- Always loaded Actor Count: 9 
+ |- Actor Path: /Game/FirstPerson/Maps/UEDPIE_0_level_15.level_15:PersistentLevel.AmbientSound_UAID_C87F54EAD9109AF001_1153125706
+ |- Actor Package: /Game/FirstPerson/Maps/UEDPIE_0_level_15_InstanceOf_/Game/__ExternalActors__/FirstPerson/Maps/level_15/4/2X/LZCTF0HLR6BPAOZH29609M
+ |- Actor Path: /Game/FirstPerson/Maps/UEDPIE_0_level_15.level_15:PersistentLevel.Brush_0
+ |- Actor Package: /Game/FirstPerson/Maps/UEDPIE_0_level_15
+ |- Actor Path: /Game/FirstPerson/Maps/UEDPIE_0_level_15.level_15:PersistentLevel.ChaosDebugDrawActor
+ |- Actor Package: /Game/FirstPerson/Maps/UEDPIE_0_level_15
+ |- Actor Path: /Game/FirstPerson/Maps/UEDPIE_0_level_15.level_15:PersistentLevel.DefaultPhysicsVolume_0
+ |- Actor Package: /Game/FirstPerson/Maps/UEDPIE_0_level_15
+ |- Actor Path: /Game/FirstPerson/Maps/UEDPIE_0_level_15.level_15:PersistentLevel.GameplayDebuggerPlayerManager_0
+ |- Actor Package: /Game/FirstPerson/Maps/UEDPIE_0_level_15
+ |- Actor Path: /Game/FirstPerson/Maps/UEDPIE_0_level_15.level_15:PersistentLevel.level_15_C_0
+ |- Actor Package: /Game/FirstPerson/Maps/UEDPIE_0_level_15
+ |- Actor Path: /Game/FirstPerson/Maps/UEDPIE_0_level_15.level_15:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/level_15/1/2F/WBQ0M7WGSYTJ0XX5NYSENM
+ |- Actor Path: /Game/FirstPerson/Maps/UEDPIE_0_level_15.level_15:PersistentLevel.WorldInfo_0
+ |- Actor Package: /Game/FirstPerson/Maps/UEDPIE_0_level_15
+ |- Actor Path: /Game/FirstPerson/Maps/UEDPIE_0_level_15.level_15:PersistentLevel.WorldPartitionReplay
+ |- Actor Package: /Game/FirstPerson/Maps/UEDPIE_0_level_15
+
+----------------------------------------------------------------------------------------------------------------
+level_15 - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 12800
+      World Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+     Loading Range: 25600.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+            Origin: X=0.000 Y=0.000 Z=0.000
+
+[+] Grid Levels: 1
+ |- Level  0: Cell Count    0 | Cell Size   12800 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\MonoDye.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MonoDye.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\MonoDyeEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\MonoDye">
+      <UniqueIdentifier>{B183E84A-17F3-37AE-9C23-AD42E72254A9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MonoDye\MonoDye.Build.cs">
+      <Filter>Source\MonoDye</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\MonoDye\MonoDye.cpp">
+      <Filter>Source\MonoDye</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MonoDye\MonoDye.h">
+      <Filter>Source\MonoDye</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MonoDye\MonoDyeCharacter.cpp">
+      <Filter>Source\MonoDye</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MonoDye\MonoDyeCharacter.h">
+      <Filter>Source\MonoDye</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MonoDye\MonoDyeGameMode.cpp">
+      <Filter>Source\MonoDye</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MonoDye\MonoDyeGameMode.h">
+      <Filter>Source\MonoDye</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MonoDye\MonoDyePlayerController.cpp">
+      <Filter>Source\MonoDye</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MonoDye\MonoDyePlayerController.h">
+      <Filter>Source\MonoDye</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MonoDye\MonoDyeProjectile.cpp">
+      <Filter>Source\MonoDye</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MonoDye\MonoDyeProjectile.h">
+      <Filter>Source\MonoDye</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MonoDye\TP_PickUpComponent.cpp">
+      <Filter>Source\MonoDye</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MonoDye\TP_PickUpComponent.h">
+      <Filter>Source\MonoDye</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MonoDye\TP_WeaponComponent.cpp">
+      <Filter>Source\MonoDye</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MonoDye\TP_WeaponComponent.h">
+      <Filter>Source\MonoDye</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

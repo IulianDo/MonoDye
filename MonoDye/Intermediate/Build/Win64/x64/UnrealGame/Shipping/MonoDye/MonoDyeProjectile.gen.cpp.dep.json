@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\iulid\\onedrive\\documents\\unreal projects\\monodye\\intermediate\\build\\win64\\unrealgame\\inc\\monodye\\uht\\monodyeprojectile.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\iulid\\onedrive\\documents\\unreal projects\\monodye\\intermediate\\build\\win64\\x64\\monodye\\shipping\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\iulid\\onedrive\\documents\\unreal projects\\monodye\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\monodye\\definitions.monodye.h",
+            "c:\\users\\iulid\\onedrive\\documents\\unreal projects\\monodye\\source\\monodye\\monodyeprojectile.h",
+            "c:\\users\\iulid\\onedrive\\documents\\unreal projects\\monodye\\intermediate\\build\\win64\\unrealgame\\inc\\monodye\\uht\\monodyeprojectile.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

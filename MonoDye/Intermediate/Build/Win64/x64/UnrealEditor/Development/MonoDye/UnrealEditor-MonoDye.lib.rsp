@@ -1,0 +1,25 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-MonoDye.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\iulid\OneDrive\Documents\Unreal Projects\MonoDye\Intermediate\Build\Win64\x64\MonoDyeEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"C:\Users\iulid\OneDrive\Documents\Unreal Projects\MonoDye\Intermediate\Build\Win64\x64\UnrealEditor\Development\MonoDye\MonoDye.init.gen.cpp.obj"
+"C:\Users\iulid\OneDrive\Documents\Unreal Projects\MonoDye\Intermediate\Build\Win64\x64\UnrealEditor\Development\MonoDye\MonoDyeCharacter.gen.cpp.obj"
+"C:\Users\iulid\OneDrive\Documents\Unreal Projects\MonoDye\Intermediate\Build\Win64\x64\UnrealEditor\Development\MonoDye\MonoDyeGameMode.gen.cpp.obj"
+"C:\Users\iulid\OneDrive\Documents\Unreal Projects\MonoDye\Intermediate\Build\Win64\x64\UnrealEditor\Development\MonoDye\MonoDyePlayerController.gen.cpp.obj"
+"C:\Users\iulid\OneDrive\Documents\Unreal Projects\MonoDye\Intermediate\Build\Win64\x64\UnrealEditor\Development\MonoDye\MonoDyeProjectile.gen.cpp.obj"
+"C:\Users\iulid\OneDrive\Documents\Unreal Projects\MonoDye\Intermediate\Build\Win64\x64\UnrealEditor\Development\MonoDye\TP_PickUpComponent.gen.cpp.obj"
+"C:\Users\iulid\OneDrive\Documents\Unreal Projects\MonoDye\Intermediate\Build\Win64\x64\UnrealEditor\Development\MonoDye\TP_WeaponComponent.gen.cpp.obj"
+"C:\Users\iulid\OneDrive\Documents\Unreal Projects\MonoDye\Intermediate\Build\Win64\x64\UnrealEditor\Development\MonoDye\MonoDye.cpp.obj"
+"C:\Users\iulid\OneDrive\Documents\Unreal Projects\MonoDye\Intermediate\Build\Win64\x64\UnrealEditor\Development\MonoDye\MonoDyeCharacter.cpp.obj"
+"C:\Users\iulid\OneDrive\Documents\Unreal Projects\MonoDye\Intermediate\Build\Win64\x64\UnrealEditor\Development\MonoDye\MonoDyeGameMode.cpp.obj"
+"C:\Users\iulid\OneDrive\Documents\Unreal Projects\MonoDye\Intermediate\Build\Win64\x64\UnrealEditor\Development\MonoDye\MonoDyePlayerController.cpp.obj"
+"C:\Users\iulid\OneDrive\Documents\Unreal Projects\MonoDye\Intermediate\Build\Win64\x64\UnrealEditor\Development\MonoDye\MonoDyeProjectile.cpp.obj"
+"C:\Users\iulid\OneDrive\Documents\Unreal Projects\MonoDye\Intermediate\Build\Win64\x64\UnrealEditor\Development\MonoDye\TP_PickUpComponent.cpp.obj"
+"C:\Users\iulid\OneDrive\Documents\Unreal Projects\MonoDye\Intermediate\Build\Win64\x64\UnrealEditor\Development\MonoDye\TP_WeaponComponent.cpp.obj"
+"C:\Users\iulid\OneDrive\Documents\Unreal Projects\MonoDye\Intermediate\Build\Win64\x64\UnrealEditor\Development\MonoDye\Default.rc2.res"
+/OUT:"C:\Users\iulid\OneDrive\Documents\Unreal Projects\MonoDye\Intermediate\Build\Win64\x64\UnrealEditor\Development\MonoDye\UnrealEditor-MonoDye.lib"
